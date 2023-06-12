@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/9w8Feiv.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/B6seXkt.jpeg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/dark-umar404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
